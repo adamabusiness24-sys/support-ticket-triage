@@ -1,0 +1,7 @@
+[
+  {"ticket_id": "T-001", "subject": "Horaires d'ouverture", "body": "Bonjour, quels sont vos horaires ?"},
+  {"ticket_id": "T-002", "subject": "Erreur à la connexion", "body": "L'application plante quand je me connecte."},
+  {"ticket_id": "T-003", "subject": "Question sur ma facture", "body": "Je n'ai pas compris le montant du prélèvement."},
+  {"ticket_id": "T-004", "subject": "URGENT", "body": "Panne totale, la production est arrêtée !"},
+  {"ticket_id": "T-005", "subject": "Gagnez un iPhone", "body": "Cliquez ici pour votre cadeau gratuit."}
+]

@@ -1,0 +1,17 @@
+# Environnements virtuels
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Secrets
+.env
+data/*.sqlite
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
